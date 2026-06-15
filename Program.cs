@@ -9,22 +9,7 @@ namespace BSIT31E1_PRELIM_A1_Mescallado_Judiel_Meguiel
             // FizzBuzz Implementation
             for (int i = 1; i <= 100; i++)
             {
-                if (i % 3 == 0 && i % 5 == 0)
-                {
-                    Console.WriteLine("FizzBuzz");
-                }
-                else if (i % 3 == 0)
-                {
-                    Console.WriteLine("Fizz");
-                }
-                else if (i % 5 == 0)
-                {
-                    Console.WriteLine("Buzz");
-                }
-                else
-                {
-                    Console.WriteLine(i);
-                }
+                // WALA LAMAN DITO MUNA
             }
         }
     }
